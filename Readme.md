@@ -1,3 +1,2 @@
-This is my first AI training Repository.
-
-Test to commit
+Loaded the Walmart dataset.
+Perform Mean, Median, Mode using pandas.
